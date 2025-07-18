@@ -91,7 +91,7 @@ TwitterSentimentAnalysis/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/TwitterSentimentAnalysis.git
+   git clone https://github.com/HarshalNikhade/Twitter-Sentiment-Analysis
    ```
 
 2. Open the notebook:
