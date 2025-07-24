@@ -110,11 +110,7 @@ TwitterSentimentAnalysis/
 * Use VADER for better handling of social media tone
 * Automate daily tweet sentiment logs
 
----
 
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
